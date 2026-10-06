@@ -128,7 +128,6 @@ Loading all 1,951 clips at 10×160×160×3 takes about 1.5 GB of RAM.
 
 ## Team
 
-Computer Vision course project.
 Somaya Ossama · **Jana Emad**
 
 ## License
