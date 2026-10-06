@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# dataset, model weights and generated videos
+Real Life Violence Dataset/
+outputs/
+*.h5
+*.keras
+*.pt
